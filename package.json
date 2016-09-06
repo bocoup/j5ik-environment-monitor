@@ -1,0 +1,14 @@
+{
+  "name": "j5ik-environment-monitor",
+  "version": "0.0.1",
+  "description": "J5IK: Environment Monitor",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^6.3.0",
+    "johnny-five": "^0.10.0",
+    "tessel-io": "^0.7.0"
+  }
+}
